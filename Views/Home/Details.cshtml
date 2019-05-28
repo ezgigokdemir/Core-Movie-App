@@ -1,0 +1,24 @@
+﻿@model Movie
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card mb-3">
+    <div class="row no-gutter">
+        <div class="col-md-3">
+            <img src="~/images/@Model.ImageUrl" class="card-img" />
+        </div>
+        <div class="col-md-9">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <a>@Model.Name</a>
+                </h5>
+                <p class="card-text">
+                    @Model.Description
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+

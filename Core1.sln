@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core1", "Core1\Core1.csproj", "{6EABA776-A8D1-479B-8550-661E35B88C75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core2StarterTemp", "Core2(StarterTemp)\Core2StarterTemp.csproj", "{E942D4C6-35A4-4081-BB09-561D4712FF8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSBAdmin", "CoreSBAdmin\CoreSBAdmin.csproj", "{9AC67DBB-4BC7-43B9-9487-375D75851D03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreMovieApp", "CoreMovieApp\CoreMovieApp.csproj", "{9D9D72A9-05F0-4437-B349-EF2CE3C6391B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreMovieAppRepeat", "CoreMovieAppRepeat\CoreMovieAppRepeat.csproj", "{8F70CF0F-0EC4-4D83-8634-3464BAC062F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreFormApp", "CoreFormApp\CoreFormApp.csproj", "{62559DCD-CCCC-4984-A842-EEBE01C2A6E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreProductApp", "CoreProductApp\CoreProductApp.csproj", "{90B14585-05A7-4505-95C1-1A3EEE4BC2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreDB", "CoreDB\CoreDB.csproj", "{DE309173-5319-45C5-AFFB-225C860F5124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EABA776-A8D1-479B-8550-661E35B88C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EABA776-A8D1-479B-8550-661E35B88C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EABA776-A8D1-479B-8550-661E35B88C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EABA776-A8D1-479B-8550-661E35B88C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E942D4C6-35A4-4081-BB09-561D4712FF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E942D4C6-35A4-4081-BB09-561D4712FF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E942D4C6-35A4-4081-BB09-561D4712FF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E942D4C6-35A4-4081-BB09-561D4712FF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC67DBB-4BC7-43B9-9487-375D75851D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC67DBB-4BC7-43B9-9487-375D75851D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC67DBB-4BC7-43B9-9487-375D75851D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC67DBB-4BC7-43B9-9487-375D75851D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9D72A9-05F0-4437-B349-EF2CE3C6391B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9D72A9-05F0-4437-B349-EF2CE3C6391B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9D72A9-05F0-4437-B349-EF2CE3C6391B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9D72A9-05F0-4437-B349-EF2CE3C6391B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F70CF0F-0EC4-4D83-8634-3464BAC062F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F70CF0F-0EC4-4D83-8634-3464BAC062F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F70CF0F-0EC4-4D83-8634-3464BAC062F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F70CF0F-0EC4-4D83-8634-3464BAC062F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62559DCD-CCCC-4984-A842-EEBE01C2A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62559DCD-CCCC-4984-A842-EEBE01C2A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62559DCD-CCCC-4984-A842-EEBE01C2A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62559DCD-CCCC-4984-A842-EEBE01C2A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B14585-05A7-4505-95C1-1A3EEE4BC2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B14585-05A7-4505-95C1-1A3EEE4BC2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B14585-05A7-4505-95C1-1A3EEE4BC2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B14585-05A7-4505-95C1-1A3EEE4BC2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE309173-5319-45C5-AFFB-225C860F5124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE309173-5319-45C5-AFFB-225C860F5124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE309173-5319-45C5-AFFB-225C860F5124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE309173-5319-45C5-AFFB-225C860F5124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEC0936-94E5-4299-8957-CCF757E74EA9}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/gokdemirezgi7
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core1\\Core1.csproj
+		SccProjectName1 = Core1
+		SccLocalPath1 = Core1
+		SccProjectUniqueName2 = Core2(StarterTemp)\\Core2StarterTemp.csproj
+		SccProjectName2 = Core2(StarterTemp)
+		SccLocalPath2 = Core2(StarterTemp)
+		SccProjectUniqueName3 = CoreFormApp\\CoreFormApp.csproj
+		SccProjectName3 = CoreFormApp
+		SccLocalPath3 = CoreFormApp
+		SccProjectUniqueName4 = CoreMovieApp\\CoreMovieApp.csproj
+		SccProjectName4 = CoreMovieApp
+		SccLocalPath4 = CoreMovieApp
+		SccProjectUniqueName5 = CoreMovieAppRepeat\\CoreMovieAppRepeat.csproj
+		SccProjectName5 = CoreMovieAppRepeat
+		SccLocalPath5 = CoreMovieAppRepeat
+		SccProjectUniqueName6 = CoreProductApp\\CoreProductApp.csproj
+		SccProjectName6 = CoreProductApp
+		SccLocalPath6 = CoreProductApp
+		SccProjectUniqueName7 = CoreSBAdmin\\CoreSBAdmin.csproj
+		SccProjectName7 = CoreSBAdmin
+		SccLocalPath7 = CoreSBAdmin
+		SccProjectUniqueName8 = CoreDB\\CoreDB.csproj
+		SccProjectName8 = CoreDB
+		SccLocalPath8 = CoreDB
+	EndGlobalSection
+EndGlobal
