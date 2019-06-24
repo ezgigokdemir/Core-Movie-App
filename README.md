@@ -1,5 +1,5 @@
 # Core-Movie-App
-There are applications developed by using MVC.
+This application was developed using MVC.
 
 <img src="https://github.com/ezgigokdemir/Core-Movie-App/blob/master/ProjectImage/home2.png"/>
 <img src="https://github.com/ezgigokdemir/Core-Movie-App/blob/master/ProjectImage/home.png"/>
